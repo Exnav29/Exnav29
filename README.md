@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Computer Geenrated Art.
+- 🔭 I’m currently working on Computer Generated Art.
 - 🌱 I’m currently learning MIT-IDSS Data Science and Machine Learning (DSML) program
 - 👯 I’m looking to collaborate on Computer Generated art algorithms.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Tech in General
+- 💬 Ask me about working in the Tech Industry
 - 📫 How to reach me: Twitter or LinkedIn
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/exnav29?style=plastic)     ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqgYXRrRiqrssrf53Vj4rvg?style=plastic)
