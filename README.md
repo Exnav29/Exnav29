@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Don&#39;t Take This Job: 5 Reasons NOT to Accept This Job Offer](https://www.youtube.com/watch?v=DVPSIlS4Wac)
+- [Database Administrator |  dba |  postgresql | #techjobs](https://www.youtube.com/watch?v=ibQ2SlaAHvQ)
+- [Marketing Automation Manager | growth hacking](https://www.youtube.com/watch?v=WvUaYhmuxzU)
+- [Graphic Designer  new and existing innovative uses women in tech](https://www.youtube.com/watch?v=t2uJoAdlwA0)
+- [IT Project Manager - tech careers for non-engineers](https://www.youtube.com/watch?v=Z1X1QGBaA38)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
