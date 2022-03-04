@@ -29,6 +29,32 @@ Here are some ideas to get you started:
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exnav29&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
+▶ [...more YouTube videos](https://www.youtube.com/channel/UCw1ImC2Ybtju74ble3ldzmg?sub_confirmation=1)
+
+---
+
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://medium.com/@exnav29)
+
+---
+
+
+---
+
 🧰 Toolbox
 
 
