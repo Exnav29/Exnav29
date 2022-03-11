@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Want to Change Your Career?](https://medium.com/@exnav29/want-to-change-your-career-a8d970082fe3?source=rss-dce3a1ee8891------2)
 - [Have You Been Asked to Relocate? Employer-Related Questions You Should Be Asking](https://medium.com/@exnav29/have-you-been-asked-to-relocate-employer-related-questions-you-should-be-asking-90d0ba3ac3b5?source=rss-dce3a1ee8891------2)
 - [Is Your Job a Dead-End? Signs That it Might Be…](https://medium.com/@exnav29/is-your-job-a-dead-end-signs-that-it-might-be-139d5b2d36ca?source=rss-dce3a1ee8891------2)
 - [Niche Mentors: When a “Business Mentor” Is not Enough](https://medium.com/@exnav29/niche-mentors-when-a-business-mentor-is-not-enough-df10cc0811c6?source=rss-dce3a1ee8891------2)
 - [Your Lawyer is Your Best Bet for Finding Mentors](https://medium.com/@exnav29/your-lawyer-is-your-best-bet-for-finding-mentors-34dce968b5a3?source=rss-dce3a1ee8891------2)
-- [Three Ways for Mentees to Thank Mentors](https://medium.com/@exnav29/three-ways-for-mentees-to-thank-mentors-ddd5b1463c26?source=rss-dce3a1ee8891------2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://medium.com/@exnav29)
