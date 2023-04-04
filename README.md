@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Black America: It Is Time to Act](https://medium.com/@exnav29/black-america-it-is-time-to-act-1abd1f45bd0b?source=rss-dce3a1ee8891------2)
-- [Is Your Job-Search Strategy Working for You?](https://medium.com/@exnav29/is-your-job-search-strategy-working-for-you-9f497bb6e5aa?source=rss-dce3a1ee8891------2)
-- [Investors as Mentors: Why They Are Important and How to Locate Them](https://medium.com/@exnav29/investors-as-mentors-why-they-are-important-and-how-to-locate-them-4778a3e374fd?source=rss-dce3a1ee8891------2)
-- [Want to Change Your Career?](https://medium.com/@exnav29/want-to-change-your-career-a8d970082fe3?source=rss-dce3a1ee8891------2)
-- [Have You Been Asked to Relocate? Employer-Related Questions You Should Be Asking](https://medium.com/@exnav29/have-you-been-asked-to-relocate-employer-related-questions-you-should-be-asking-90d0ba3ac3b5?source=rss-dce3a1ee8891------2)
+- [United in the Struggle for ChatGPT: A Clarion Call for the Future of AI](https://medium.com/@exnav29/united-in-the-struggle-for-chatgpt-a-clarion-call-for-the-future-of-ai-55c278b83b2b?source=rss-dce3a1ee8891------2)
+- [Unmasking the Unknown: OpenAI, the Enigmatic CAIDP, and the Pursuit of Hidden Agendas](https://medium.com/@exnav29/unmasking-the-unknown-openai-the-enigmatic-caidp-and-the-pursuit-of-hidden-agendas-afa5b293d552?source=rss-dce3a1ee8891------2)
+- [A Veil of Deception: Unmasking the Ulterior Motives Behind AI Safety Concerns](https://medium.com/@exnav29/a-veil-of-deception-unmasking-the-ulterior-motives-behind-ai-safety-concerns-6c67904452b2?source=rss-dce3a1ee8891------2)
+- [Smart Investment Strategy: Tax Lien Certificates in Florida](https://medium.com/@exnav29/smart-investment-strategy-tax-lien-certificates-in-florida-66bb3c86f1a6?source=rss-dce3a1ee8891------2)
+- [The Downside of Working from Home: Is Remote Work Worth the Cost?](https://medium.com/@exnav29/the-downside-of-working-from-home-is-remote-work-worth-the-cost-b075fae1b9c0?source=rss-dce3a1ee8891------2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://medium.com/@exnav29)
