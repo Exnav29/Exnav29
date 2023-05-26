@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 - [Managing and Maintaining a Profitable Tax Lien Portfolio in Florida](https://floridataxlieninsider.substack.com/p/managing-and-maintaining-a-profitable)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://medium.com/@exnav29)
+▶ [...more blog articles](https://floridataxlieninsider.substack.com/)
 
 ---
 
