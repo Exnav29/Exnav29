@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Investing in Tax Liens Across Multiple States Could Burn You Out](https://medium.com/@exnav29/why-investing-in-tax-liens-across-multiple-states-could-burn-you-out-a94291edb651?source=rss-dce3a1ee8891------2)
-- [The Secret to Tax Lien Investing Success](https://medium.com/@exnav29/the-secret-to-tax-lien-investing-success-62f8cc09ddd1?source=rss-dce3a1ee8891------2)
-- [Don’t Miss Out on Huge Profits](https://medium.com/@exnav29/dont-miss-out-on-huge-profits-7df2cd3f22a4?source=rss-dce3a1ee8891------2)
-- [Tax Lien Investing vs. Other Real Estate Investment Strategies in Florida](https://medium.com/@exnav29/tax-lien-investing-vs-other-real-estate-investment-strategies-in-florida-bd9a4dd35c15?source=rss-dce3a1ee8891------2)
-- [Hallelujah! The Heavenly Connection](https://medium.com/@exnav29/hallelujah-the-heavenly-connection-7c6c605c4d3b?source=rss-dce3a1ee8891------2)
+- [Tax Lien Investing Pitfalls to Avoid](https://floridataxlieninsider.substack.com/p/tax-lien-investing-pitfalls-to-avoid)
+- [Florida Tax Lien Investing](https://floridataxlieninsider.substack.com/p/florida-tax-lien-investing)
+- [The Pros and Cons of Investing in Tax Lien Funds or Partnerships in Florida](https://floridataxlieninsider.substack.com/p/the-pros-and-cons-of-investing-in)
+- [Exercising Caution in Florida](https://floridataxlieninsider.substack.com/p/exercising-caution-in-florida)
+- [Managing and Maintaining a Profitable Tax Lien Portfolio in Florida](https://floridataxlieninsider.substack.com/p/managing-and-maintaining-a-profitable)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://medium.com/@exnav29)
