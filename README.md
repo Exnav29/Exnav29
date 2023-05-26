@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about working in the Tech Industry
 - 📫 How to reach me: Twitter or LinkedIn
 
-![Substack Follow](https://img.shields.io/badge/Substack-Follow-orange?style=plastic)     ![YouTube Channel Subscribers](https://img.shields.io/badge/Substack-Follow-orange?link=https://floridataxlieninsider.substack.com&style=plastic)](https://floridataxlieninsider.substack.com))
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqgYXRrRiqrssrf53Vj4rvg?style=social)
+![SubStack Newsletter](https://img.shields.io/badge/Substack-Follow-orange?style=plastic)
 
 ![](https://komarev.com/ghpvc/?username=your-github-Exnav29&style=for-the-badge)
 
