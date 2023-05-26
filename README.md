@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Computer Generated Art.
+- 🔭 I’m currently working on CLN Publishing, Are you looking for a Publisher to publish your book? Contact me!
 - 🌱 I’m currently learning MIT-IDSS Data Science and Machine Learning (DSML) program
 - 👯 I’m looking to collaborate on Computer Generated art algorithms.
 - 💬 Ask me about working in the Tech Industry
 - 📫 How to reach me: Twitter or LinkedIn
 
-![Twitter Follow](https://img.shields.io/twitter/follow/exnav29?style=plastic)     ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqgYXRrRiqrssrf53Vj4rvg?style=plastic)
+![Substack Follow](https://img.shields.io/badge/Substack-Follow-orange?style=plastic)     ![YouTube Channel Subscribers](https://img.shields.io/badge/Substack-Follow-orange?link=https://floridataxlieninsider.substack.com&style=plastic)](https://floridataxlieninsider.substack.com))
 
 ![](https://komarev.com/ghpvc/?username=your-github-Exnav29&style=for-the-badge)
 
