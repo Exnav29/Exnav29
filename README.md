@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Two Approaches to Tax Lien Investing in Florida](https://floridataxlieninsider.substack.com/p/two-approaches-to-tax-lien-investing)
 - [Join my chat](https://floridataxlieninsider.substack.com/p/join-my-chat)
 - [Tax Lien Investing Pitfalls to Avoid](https://floridataxlieninsider.substack.com/p/tax-lien-investing-pitfalls-to-avoid)
 - [Florida Tax Lien Investing](https://floridataxlieninsider.substack.com/p/florida-tax-lien-investing)
 - [The Pros and Cons of Investing in Tax Lien Funds or Partnerships in Florida](https://floridataxlieninsider.substack.com/p/the-pros-and-cons-of-investing-in)
-- [Exercising Caution in Florida](https://floridataxlieninsider.substack.com/p/exercising-caution-in-florida)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://floridataxlieninsider.substack.com/)
