@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Capitalizing on Change](https://floridataxlieninsider.substack.com/p/capitalizing-on-change)
 - [Protecting Your Investments](https://floridataxlieninsider.substack.com/p/protecting-your-investments)
 - [Navigating the Florida Property Market Post-Disney Decision](https://floridataxlieninsider.substack.com/p/navigating-the-florida-property-market)
 - [Two Approaches to Tax Lien Investing in Florida](https://floridataxlieninsider.substack.com/p/two-approaches-to-tax-lien-investing)
 - [Join my chat](https://floridataxlieninsider.substack.com/p/join-my-chat)
-- [Tax Lien Investing Pitfalls to Avoid](https://floridataxlieninsider.substack.com/p/tax-lien-investing-pitfalls-to-avoid)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://floridataxlieninsider.substack.com/)
