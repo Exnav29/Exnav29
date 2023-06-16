@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Unleash Your Investment Mojo with Florida Tax Lien Insider&#39;s Substack](https://floridataxlieninsider.substack.com/p/unleash-your-investment-mojo-with)
 - [Crunching the Numbers](https://floridataxlieninsider.substack.com/p/crunching-the-numbers)
 - [Protect Your Property](https://floridataxlieninsider.substack.com/p/protect-your-property)
 - [Beware of Phantom Properties](https://floridataxlieninsider.substack.com/p/beware-of-phantom-properties)
 - [Protect Yourself from Redemption Fraud in Florida Tax Lien Investments](https://floridataxlieninsider.substack.com/p/protect-yourself-from-redemption)
-- [Tax Lien Investing vs. Other Real Estate Investment Strategies in Florida](https://floridataxlieninsider.substack.com/p/tax-lien-investing-vs-other-real-69c)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://floridataxlieninsider.substack.com/)
