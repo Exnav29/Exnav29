@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Florida Property Taxes](https://floridataxlieninsider.substack.com/p/understanding-florida-property-taxes)
 - [How to Lower Your Property Taxes in Florida](https://floridataxlieninsider.substack.com/p/how-to-lower-your-property-taxes)
 - [Unleash Your Investment Mojo with Florida Tax Lien Insider&#39;s Substack](https://floridataxlieninsider.substack.com/p/unleash-your-investment-mojo-with)
 - [Crunching the Numbers](https://floridataxlieninsider.substack.com/p/crunching-the-numbers)
 - [Protect Your Property](https://floridataxlieninsider.substack.com/p/protect-your-property)
-- [Beware of Phantom Properties](https://floridataxlieninsider.substack.com/p/beware-of-phantom-properties)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://floridataxlieninsider.substack.com/)
