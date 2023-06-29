@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Florida&#39;s Homestead Exemption and Its Benefits](https://floridataxlieninsider.substack.com/p/understanding-floridas-homestead)
+- [Exploring Incentives for Out-of-State Investors to Invest in Florida Property](https://floridataxlieninsider.substack.com/p/exploring-incentives-for-out-of-state)
 - [Maximizing Returns](https://floridataxlieninsider.substack.com/p/maximizing-returns)
 - [Understanding Florida Property Taxes](https://floridataxlieninsider.substack.com/p/understanding-florida-property-taxes)
 - [How to Lower Your Property Taxes in Florida](https://floridataxlieninsider.substack.com/p/how-to-lower-your-property-taxes)
-- [Unleash Your Investment Mojo with Florida Tax Lien Insider&#39;s Substack](https://floridataxlieninsider.substack.com/p/unleash-your-investment-mojo-with)
-- [Crunching the Numbers](https://floridataxlieninsider.substack.com/p/crunching-the-numbers)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://floridataxlieninsider.substack.com/)
