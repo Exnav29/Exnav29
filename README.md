@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [AI Unveiled: Exclusive Insights from a 30-Year IT Veteran - Must-Watch AMA!](https://www.youtube.com/watch?v=tAhYNKvf4wg)
 - [Mastering the Art of AI Essential Tips for Success](https://www.youtube.com/watch?v=XGN4OT2jP2g)
 - [Don&#39;t Take This Job: 5 Reasons NOT to Accept This Job Offer](https://www.youtube.com/watch?v=DVPSIlS4Wac)
 - [Database Administrator |  dba |  postgresql | #techjobs](https://www.youtube.com/watch?v=ibQ2SlaAHvQ)
 - [Marketing Automation Manager | growth hacking](https://www.youtube.com/watch?v=WvUaYhmuxzU)
-- [Graphic Designer  new and existing innovative uses women in tech](https://www.youtube.com/watch?v=t2uJoAdlwA0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
